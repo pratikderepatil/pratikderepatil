@@ -8,7 +8,6 @@
     <tr>
         <td>
 	<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikderepatil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pratikderepatil" /> </p>
-
             <h3 align="center">
 			Self-motivated and creative full-stack developer.<br/>Interested in building innovative and attractive websites.Curious to work with an exciting company to develop full-fledged interactive products.</h3>
         </td>
