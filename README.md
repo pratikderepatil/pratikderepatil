@@ -39,6 +39,7 @@
 <h2></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikderepatil" alt="pratikderepatil" /></a> </p>
 <h2></h2>
+
 ### ⚗️ Full Stack (MERN) web developer.
 
 ### 📫 How to reach me **pratikdere333@gmail.com**
@@ -47,7 +48,7 @@
 
 ### 🌍 I'm based in Pune, Maharashtra
 
-<br/>
+<h2></h2>
 <h3 align="left">Reach out to me here:</h3>
 <p align="left">
 
