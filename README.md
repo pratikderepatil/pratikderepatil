@@ -4,11 +4,11 @@
     I'm Pratik Derepatil
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikderepatil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pratikderepatil" /> </p>
-
 <table border="0">
     <tr>
         <td>
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikderepatil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pratikderepatil" /> </p>
+
             <h3 align="center">
 			Self-motivated and creative full-stack developer.<br/>Interested in building innovative and attractive websites.Curious to work with an exciting company to develop full-fledged interactive products.</h3>
         </td>
@@ -37,12 +37,9 @@
 	<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white" alt="Jira" />
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VS-Code" />
 </p>
-<br/>
-<br/>
-
+<h2></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikderepatil" alt="pratikderepatil" /></a> </p>
-<br/>
-
+<h2></h2>
 ### ⚗️ Full Stack (MERN) web developer.
 
 ### 📫 How to reach me **pratikdere333@gmail.com**
