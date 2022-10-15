@@ -61,14 +61,8 @@
 
 <h2 align="center">My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical" alt="Pratik" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pratikderepatil&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikderepatil&theme=radical&langs_count=8" alt="Pratikderepatil" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pratikderepatil&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical" alt="Pratik" height="250px" width="49%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pratikderepatil&show_icons=true&theme=radical" height="255px" width="49%"/>
 <div>
 
 ![GitHub metrics](https://metrics.lecoq.io/pratikderepatil)
