@@ -37,7 +37,7 @@
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VS-Code" />
 </p>
 <h2></h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikderepatil" alt="pratikderepatil" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikderepatil&&margin-w=20%&margin-h=20%" alt="pratikderepatil" /></a> </p>
 <h2></h2>
 
 ### ⚗️ Full Stack (MERN) web developer.
