@@ -54,7 +54,7 @@
 
 <a href="https://www.linkedin.com/in/pratik-derepatil/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://www.linkedin.com/in/pratik-derepatil/" target="blank">
+<a href="https://pratikderepatil.github.io/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 
 </p>
