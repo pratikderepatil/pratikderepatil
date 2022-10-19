@@ -53,9 +53,8 @@ Self-motivated and creative full-stack developer. Interested in building innovat
 
 <h3 align="center">My Github Stats<h3>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical" alt="Pratik" width="340" height="130" />
-<img src="https://github-readme-stats.vercel.app/api?username=pratikderepatil&show_icons=true&theme=radical" width="340" height="130"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" " width="290" height="130"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical" alt="Pratik" width="400" height="130" />
+<img src="https://github-readme-stats.vercel.app/api?username=pratikderepatil&show_icons=true&theme=radical" width="400" height="130"/>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/pratikderepatil)
