@@ -6,13 +6,6 @@
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" height="280" />
 
- <table>
-  <tr>
-    <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/pratikderepatil"><img draggable="false" src="https://profile-counter.glitch.me/pratikderepatil/count.svg" alt="Visitor Count" height="28" width="220" /></a></td>
-  </tr>
-</table>
-
 Self-motivated and creative full-stack developer. Interested in building innovative and attractive websites.Curious to work with an exciting company to develop full-fledged interactive products.
 
 
@@ -23,6 +16,13 @@ Self-motivated and creative full-stack developer. Interested in building innovat
 - 🌱 I’m actively looking for oppoturnities.
 
 - 🌍 I'm based in Pune, Maharashtra
+
+ <table>
+  <tr>
+    <td>Visitors</td>
+    <td><a align= "center" href="https://github.com/pratikderepatil"><img draggable="false" src="https://profile-counter.glitch.me/pratikderepatil/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
+  </tr>
+</table>
 
 <h4 align="left">Reach out to me here:</h4>
 <p align="left">
