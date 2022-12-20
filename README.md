@@ -9,7 +9,7 @@
  <table>
   <tr>
     <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/pratikderepatil"><img draggable="false" src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="28" width="220" /></a></td>
+    <td><a align= "center" href="https://github.com/pratikderepatil"><img draggable="false" src="https://profile-counter.glitch.me/pratikderepatil/count.svg" alt="Visitor Count" height="28" width="220" /></a></td>
   </tr>
 </table>
 
