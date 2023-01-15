@@ -62,11 +62,9 @@ Self-motivated and creative full-stack developer. Interested in building innovat
 
 
 <h3 align="center">My Github Stats<h3>
-
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikderepatil&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikderepatil&layout=compact&theme=radical)](https://github.com/pratikderepatil/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pratikderepatil&bg_color=ffffff&color=000000&line=ffea00&point=ffd500&area=true&hide_border=true)
+	
+![](https://github-readme-stats.vercel.app/api?username=pratikderepatil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratikderepatil&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikderepatil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![GitHub metrics](https://metrics.lecoq.io/pratikderepatil)
