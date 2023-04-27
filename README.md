@@ -17,7 +17,7 @@ Self-motivated and creative full-stack developer. Interested in building innovat
 
 - 🌍 I'm based in Pune, Maharashtra
 
-- 💻 My Portfolio https://pratikderepatil.github.io/
+- 💻 My Portfolio [pratikderepatil.github.io](https://pratikderepatil.github.io/)
 
  <table>
   <tr>
