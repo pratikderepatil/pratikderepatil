@@ -31,7 +31,7 @@ Self-motivated and creative full-stack developer. Interested in building innovat
 
 <a href="https://www.linkedin.com/in/pratik-derepatil/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href='pratikderepatil.github.io/'>
+<a href="https://pratikderepatil.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:pratikdere333@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/Pratik%20Derepatil-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
